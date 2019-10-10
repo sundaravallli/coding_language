@@ -12,7 +12,7 @@ $(document).ready(function() {
     });
     var yes = document.getElementById("yes_rdaio");
     var no = document.getElementById("no_rdaio");
-
+ss
     yes.onclick = function(){
         $("#survey_2").show();  
     }
