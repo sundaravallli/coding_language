@@ -1,6 +1,7 @@
 #name{
-color: black;
-}
-body {
-    background-image: url("coding_language.jpg");
-}
+    color: black;
+    }
+ body {
+        background-clip: padding-box;
+        background-color: burlywood;
+    }
