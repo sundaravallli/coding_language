@@ -2,5 +2,6 @@
 color: black;
 }
 body {
-    background-image: url("coding_language.jpg");
+    background-clip: padding-box;
+    background-color: burlywood;
 }
